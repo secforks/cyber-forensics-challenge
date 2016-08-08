@@ -10,3 +10,4 @@ cd veracrypt
 cd /home/pete/Desktop/
 wget https://github.com/jknyght9/CyberForensicsChallenge/raw/master/TC%20Volume/targets.vc
 history -c
+rm ~/Downloads/cfc-guest-setup2.sh 
