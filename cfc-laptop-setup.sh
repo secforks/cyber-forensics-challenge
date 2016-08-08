@@ -6,4 +6,6 @@ cd /tmp
 wget https://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=veracrypt&DownloadId=1537179&FileTime=130999181365600000&Build=21031
 tar -jvxf veracrypt-1.17-setup.tar.bz2
 ./veracrypt-1.17-setup-gui-x64
+cd /home/pete/Desktop/
+wget https://github.com/jknyght9/CyberForensicsChallenge/raw/master/TC%20Volume/targets.vc
 history -c
