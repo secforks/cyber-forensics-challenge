@@ -23,7 +23,6 @@ Teams of 4-5 students will be established and receive the in-brief (CFC-InBriefi
 - strips of paper with passwords
 
 ## Chromebook setup
-Enter developer mode
 1. Power on chromebook and press ESC + Refresh (F3) + Power button
 2. Once recovery mode screen is up, press Ctrl + Alt + D, then Enter
 3. Press Ctrl + Alt + D again to start Developer Mode
